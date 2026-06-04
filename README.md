@@ -10,9 +10,9 @@ Focus areas: Healthcare NLP → Finance → Enterprise AI systems.
 
 ## Philosophy
 - Understand the math first, then write the code
-- No black boxes — every line is explainable
+- No black boxes - every line is explainable
 - Real datasets, not toy examples
-- Daily commits — code goes up every day
+- Daily commits - code goes up every day
 
 ---
 
