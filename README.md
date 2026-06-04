@@ -1,4 +1,4 @@
-# NLP Portfolio — Built From Scratch
+# NLP Portfolio: Built From Scratch
 
 A hands-on journey building NLP systems from the ground up.
 No ML libraries. Pure Python + NumPy + Pandas.
