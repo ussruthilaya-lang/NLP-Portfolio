@@ -20,4 +20,5 @@ Focus areas: Healthcare NLP → Finance → Enterprise AI systems.
 
 | Day | File | What I Built | NLP Stage |
 |-----|------|-------------|-----------|
-| 1 | `foundations/day1_strings_tokenizer.py` | Tokenizer orchestrator — cleans raw text, builds vocabulary, maps words to indices | Text Preprocessing |
+| 1 | `foundations/day1_strings_tokenizer.py` | Tokenizer orchestrator - cleans raw text, builds vocabulary, maps words to indices | Text Preprocessing |
+| 2 | `foundations/day2_bow_vectors.py` | Bag of Words vectorizer - converts sentences into numeric vectors, one slot per vocab word | Text Preprocessing → Vectorization |
