@@ -22,3 +22,4 @@ Focus areas: Healthcare NLP → Finance → Enterprise AI systems.
 |-----|------|-------------|-----------|
 | 1 | `foundations/day1_strings_tokenizer.py` | Tokenizer orchestrator - cleans raw text, builds vocabulary, maps words to indices | Text Preprocessing |
 | 2 | `foundations/day2_bow_vectors.py` | Bag of Words vectorizer - converts sentences into numeric vectors, one slot per vocab word | Text Preprocessing → Vectorization |
+| 3 | `models/naive_bayes/day3_naive_bayes.py` | Naive Bayes classifier - predicts toxic vs not toxic from scratch | Probabilistic Modeling → Classification |
